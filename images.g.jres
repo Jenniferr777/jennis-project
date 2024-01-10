@@ -1,0 +1,17 @@
+{
+    "==ue)Pphk:%h+aS^_;aO": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAGBmZgAAAAAAZmZmkAAAaWD2/2YIBpAWYGZvZggAkGZgZmZmCAAACWCWZmkIAABgYGZphggAAAAAZpaGAAAAAABpZggAAABgZpYGAAAAAGZphgAAAAAAYJaGAGkAAAAAZoYABgAAAABgCAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "projectile"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAO7uAAAOAADu7u4O7u4AAOD+7+7u7gAAAO7u7+7uDgAA7v7u7u4AAODu7u/u7AAA7v7v7u7uAFDg7u7u7u4OAADu7gTu7gAAAEBEAOROAAAAAAAAQE4AAAAAAAAABAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "temporary"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
